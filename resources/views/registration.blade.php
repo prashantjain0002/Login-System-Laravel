@@ -24,7 +24,7 @@
             @csrf
             <div class="mb-3">
                 <label class="form-label">Full Name</label>
-                <input type="text" class="form-control" name="name" pattern="[A-Za-z]" placeholder="Please only use alphabets">
+                <input type="text" class="form-control" name="name" placeholder="Please only use alphabets">
             </div>
             <div class="mb-3">
                 <label class="form-label">Email address</label>
